@@ -8,7 +8,7 @@
 
 * Metodologias Ágeis
 * Trabalhar em equipes utilizando de comunicação, empatia e junto disso a metodologia ágil
-* Consolidar e desenvolver conhecimento nas tecnologias de HTML, CSS, Javascript e React
+* Consolidar e desenvolver conhecimento nas tecnologias de HTML, CSS, Javascript, React e Redux
 
 # Como instalar
 
