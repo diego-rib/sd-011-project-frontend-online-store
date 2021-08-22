@@ -1,7 +1,8 @@
 # Projeto de Front-End Online Store!
 
 * Projeto realizado em grupo com os membros: [João Lima](https://github.com/Lima08), [Marcelo Palochas](https://github.com/MarceloPalochas) e [Wilquer Figueiredo](https://github.com/Wilquer82) para atender a Trybe no módulo de Front-End.
-* O objetivo deste projeto foi desenvolver uma aplicação de e-commerce com funções mais complexas como o carrinho de compras que utiliza de manipulação de estado global com localStorage, e, mais tarde utilizando Redux.
+* O objetivo deste projeto foi desenvolver uma aplicação de e-commerce usando a API do Mercado Livre.
+* Contando com funções mais complexas como um carrinho de compras que utiliza de manipulação de estado global com localStorage, e, mais tarde utilizando Redux.
 
 # Habilidades trabalhadas
 
